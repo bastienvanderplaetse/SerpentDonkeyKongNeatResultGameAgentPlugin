@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+    <config>
+      <ann>neat_gen_164</ann>
+      <inputs>
+        <height_radius>2</height_radius>
+        <width_radius>2</width_radius>
+      </inputs>
+      <max_nodes>1000000</max_nodes>
+    </config>
